@@ -736,11 +736,7 @@
 - (UIStatusBarStyle)preferredStatusBarStyle {
     return UIStatusBarStyleLightContent;
 }
-//隐藏电池条
-//- (BOOL)prefersStatusBarHidden
-//{
-//    return YES;
-//}
+
 
 
 
